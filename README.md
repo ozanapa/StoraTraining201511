@@ -1,4 +1,4 @@
 # StoraTraining201511
 
 
-# ozanapa
+# ozanapa dalsi zmena
